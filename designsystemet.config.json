@@ -1,0 +1,20 @@
+{
+  "$schema": "node_modules/@digdir/designsystemet/dist/config.schema.json",
+  "outDir": "./design-tokens",
+  "themes": {
+    "aqs": {
+      "colors": {
+        "main": {
+          "accent": "#7ed321"
+        },
+        "support": {
+          "brand1": "#7ed321",
+          "brand2": "#2b3e50"
+        },
+        "neutral": "#f5f5f5"
+      },
+      "borderRadius": 0
+    }
+  }
+}
+
